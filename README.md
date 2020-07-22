@@ -6,4 +6,4 @@ Os dados utilizados foram disponibilizados no curso Machine Learning da Formaç�
 O projeto está dividido em três pastas:
 - [dados](./data): diretório com os dados
 - [linguagem R](./modeloR): desenvolvimento do projeto em linguagem R
-- [linguagem Python(./modeloPython): desenvolvimento do projeto em linguagem Python
+- [linguagem Python](./modeloPython): desenvolvimento do projeto em linguagem Python
